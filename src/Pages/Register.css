@@ -1,0 +1,13 @@
+
+.mainWrapper{
+    position: relative;
+    top: 100px ;
+}
+
+.title{
+    padding-bottom: 30px;
+}
+
+.inputWrapper{
+    padding-bottom: 20px;
+}
